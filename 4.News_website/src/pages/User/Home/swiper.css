@@ -1,0 +1,170 @@
+.swiper {
+    margin-bottom: 30px;
+  }
+  .swiper-slide {
+    height: 600px;
+    background-image: url("https://render.fineartamerica.com/images/rendered/share/2715784&domainId=12");
+    background-size: cover;
+    line-height: 300px;
+    text-align: center;
+    color: white;
+    position: relative;
+  }
+  .swiper-slide::before {
+    content: "Golf PUBLISHER"; 
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5); 
+    font-weight: 800;
+    font-size: 36px;
+  }
+  
+  .swiper-slide:nth-child(2) {
+    height: 600px;
+    background-image: url("https://render.fineartamerica.com/images/rendered/share/2715784&domainId=12");
+    background-size: cover;
+    line-height: 300px;
+    text-align: center;
+    color: white;
+    position: relative;
+  }
+  .swiper-slide:nth-child(2):before {
+    content: " PUBLISHER"; 
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5); 
+    font-weight: 800;
+    font-size: 36px;
+  }
+  
+  .swiper-slide:nth-child(3) {
+    height: 600px;
+    background-image: url("https://render.fineartamerica.com/images/rendered/share/2715784&domainId=12");
+    background-size: cover;
+    line-height: 300px;
+    text-align: center;
+    color: white;
+    position: relative;
+  }
+  .swiper-slide:nth-child(3):before {
+    content: " PUBLISHER"; 
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5); 
+    font-weight: 800;
+    font-size: 36px;
+  }
+  
+  .swiper-slide:nth-child(4) {
+    height: 600px;
+    background-image: url("https://render.fineartamerica.com/images/rendered/share/2715784&domainId=12");
+    background-size: cover;
+    line-height: 300px;
+    text-align: center;
+    color: white;
+    position: relative;
+  }
+  .swiper-slide:nth-child(4):before {
+    content: " PUBLISHER"; 
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5); 
+    font-weight: 800;
+    font-size: 36px;
+  }
+  
+  .swiper-slide:nth-child(5) {
+    height: 600px;
+    background-image: url("https://render.fineartamerica.com/images/rendered/share/2715784&domainId=12");
+    background-size: cover;
+    line-height: 300px;
+    text-align: center;
+    color: white;
+    position: relative;
+  }
+  .swiper-slide:nth-child(5):before {
+    content: " PUBLISHER"; 
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5); 
+    font-weight: 800;
+    font-size: 36px;
+  }
+  
+  .swiper-slide:nth-child(6) {
+    height: 600px;
+    background-image: url("https://render.fineartamerica.com/images/rendered/share/2715784&domainId=12");
+    background-size: cover;
+    line-height: 300px;
+    text-align: center;
+    color: white;
+    position: relative;
+  }
+  .swiper-slide:nth-child(6):before {
+    content: " PUBLISHER"; 
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5); 
+    font-weight: 800;
+    font-size: 36px;
+  }
+  
+  .swiper-slide:nth-child(7) {
+    height: 600px;
+    background-image: url("https://render.fineartamerica.com/images/rendered/share/2715784&domainId=12");
+    background-size: cover;
+    line-height: 300px;
+    text-align: center;
+    color: white;
+    position: relative;
+  }
+  .swiper-slide:nth-child(7):before {
+    content: " PUBLISHER"; 
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5); 
+    font-weight: 800;
+    font-size: 36px;
+  }
+  
+  .swiper-slide:nth-child(8) {
+    height: 600px;
+    background-image: url("https://render.fineartamerica.com/images/rendered/share/2715784&domainId=12");
+    background-size: cover;
+    line-height: 300px;
+    text-align: center;
+    color: white;
+    position: relative;
+  }
+  .swiper-slide:nth-child(8):before {
+    content: " PUBLISHER"; 
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5); 
+    font-weight: 800;
+    font-size: 36px;
+  }

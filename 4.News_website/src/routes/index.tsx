@@ -1,5 +1,6 @@
 import Home from "../pages/User/Home/index";
 import Login from "../pages/User/Login/index";
+import NotFound from "../pages/NotFound/index";
 import Register from "../pages/User/Register/index";
 import UserRoot from "../pages/User/UserRoot/index";
 
@@ -21,5 +22,9 @@ export const ROUTES = [
           element: <Register />,
         },
       ],
+    },
+    {
+      path: "*",
+      element: <NotFound />,
     },
   ];
